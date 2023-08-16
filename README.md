@@ -37,7 +37,7 @@ mostrando as possibilidades de uso.
 
 - Introdução
     - [O que é F#](conteudos/00-Introdução/00-O_que_é_F%23.md)
-    - [Instalação](conteudos/00-Introdução/01-Instalação.md)
+    - [Instalação](conteudos/00-Introdução/01-Instalação_e_Ambiente.md)
 ---
 -- TODO --
 - [Conteúdo 2](link-segunda-parte)
